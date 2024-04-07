@@ -6,5 +6,5 @@ Section: BS-SE-F21M<br>
 Group Members:
 1. BSEF21M033  Imran Javed
 2. BSEF21M057  Muhammad Safee
-3. BSEF20A046   Rida Manzoor
+3. BSEF20A046  Rida Manzoor
   
