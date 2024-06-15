@@ -1,5 +1,5 @@
 # Software-Design-And-Architecture_Hospital-Management-System
-This repository contains the project files for the Hospital Management System developed as part of the Software Design &amp; Architecture course.<br>
+This repository contains the assignment files for the Hospital Management System developed as part of the Software Design &amp; Architecture course.<br>
 <br>Course Name: Software Design and Architechture<br>
 Project Title: Hospital Management System (HMS)<br>
 Section: BS-SE-F21M<br>
